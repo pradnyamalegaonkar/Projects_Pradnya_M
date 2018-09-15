@@ -1,8 +1,4 @@
 
-######################################
-# section 4.2.3
-######################################
-
 # Using R to Perform a K-Means Analysis
 
 # install packages, if necessary
